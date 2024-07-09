@@ -1,2 +1,3 @@
-# demo-repo
-Github Practice Repo
+# Demo  
+
+Practice repo for learning Git and GitHub.
